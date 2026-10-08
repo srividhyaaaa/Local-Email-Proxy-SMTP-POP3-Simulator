@@ -1,0 +1,1 @@
+"""Tkinter frontend for the local email application."""
